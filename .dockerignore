@@ -1,0 +1,13 @@
+package-lock.json
+node_modules
+yarn.lock
+build
+dist
+.git
+.DS_Store
+.env
+Dockerfile*
+README.md
+npm-debug.log
+.vscode
+.idea
